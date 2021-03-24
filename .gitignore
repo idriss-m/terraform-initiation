@@ -1,0 +1,6 @@
+*.tfplan
+.terraform/**
+./terraform/providers/**
+terraform.tfstate.d/**
+.terraform.lock.hcl
+*.backup
